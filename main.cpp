@@ -1,6 +1,3 @@
-//=======================================================================================
-// https://www.internalpointers.com/post/c-rvalue-references-and-move-semantics-beginners
-//=======================================================================================
 
 #include <iostream>
 #include <chrono>
