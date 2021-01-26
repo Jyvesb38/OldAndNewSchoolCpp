@@ -1,3 +1,8 @@
+// ------------------------------------------------------------------------------------------------------
+// Does the timing of standard operations such as creation, copy, and assignment on large objects,
+// once with only copy operators defined (rule of three), then with move operators as well (rule of five)
+// We may compare time execution on both cases.
+// ------------------------------------------------------------------------------------------------------
 
 #include <iostream>
 #include <chrono>
