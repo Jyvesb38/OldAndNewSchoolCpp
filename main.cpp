@@ -10,7 +10,7 @@ using namespace std;
 // GENERAL :  les objets suivants sont RAII = "Resource Allocation Is Initialisation"
 // resource allocation (or acquisition) is done during object creation (specifically initialization), by the constructor,
 // while resource deallocation (release) is done during object destruction (specifically finalization), by the destructor.
-
+// ***********************************************************************************************************************²
 
 // Chrono ===================================================
 vector<std::chrono::system_clock::time_point> vStart;
